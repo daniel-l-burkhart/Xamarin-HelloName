@@ -1,0 +1,5 @@
+/Users/daniel/Projects/helloName/helloName/bin/Debug/helloName.dll
+/Users/daniel/Projects/helloName/helloName/bin/Debug/helloName.pdb
+/Users/daniel/Projects/helloName/helloName/obj/Debug/helloName.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/helloName/helloName/obj/Debug/helloName.dll
+/Users/daniel/Projects/helloName/helloName/obj/Debug/helloName.pdb

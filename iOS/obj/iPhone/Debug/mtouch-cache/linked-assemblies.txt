@@ -1,0 +1,4 @@
+/Users/daniel/Projects/helloName/iOS/bin/iPhone/Debug/helloName.iOS.app:/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/helloName.iOS.exe
+/Users/daniel/Projects/helloName/iOS/bin/iPhone/Debug/helloName.iOS.app:/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+/Users/daniel/Projects/helloName/iOS/bin/iPhone/Debug/helloName.iOS.app:/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+/Users/daniel/Projects/helloName/iOS/bin/iPhone/Debug/helloName.iOS.app:/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/System.dll

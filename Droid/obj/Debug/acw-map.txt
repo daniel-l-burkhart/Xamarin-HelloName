@@ -1,0 +1,4 @@
+helloName.Droid.MainActivity, helloName.Droid;md5c399f2952702f7fc9a8de21cd7c0183c.MainActivity
+helloName.Droid.MainActivity, helloName.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5c399f2952702f7fc9a8de21cd7c0183c.MainActivity
+helloName.Droid.MainActivity;md5c399f2952702f7fc9a8de21cd7c0183c.MainActivity
+helloname.droid.MainActivity;md5c399f2952702f7fc9a8de21cd7c0183c.MainActivity

@@ -1,0 +1,9 @@
+Function=xamarin_timezone_get_data
+	/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_log
+	/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/mscorlib.dll
+Function=xamarin_get_block_descriptor
+	/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/daniel/Projects/helloName/iOS/obj/iPhone/Debug/mtouch-cache/Link/Xamarin.iOS.dll
+Function=mono_pmip

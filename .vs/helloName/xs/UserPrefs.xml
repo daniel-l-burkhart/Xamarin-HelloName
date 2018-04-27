@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{7BBBA577-8AA8-4BD6-8EB7-960FD7DBE6BF}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="iOS/Main.storyboard" />
+      <File FileName="iOS/ViewController.cs" Line="9" Column="11" />
+      <File FileName="iOS/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="iOS/Info.plist" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.helloName.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.helloName.iOS>
+  <MonoDevelop.Ide.ItemProperties.helloName.Droid AndroidDesignerPreferredDevice="Nexus 4" PreferredExecutionTarget="Android.Pixel_XL_API_25" />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,14 @@
+/Users/daniel/Projects/helloName/iOS/bin/iPhoneSimulator/Debug/helloName.iOS.exe
+/Users/daniel/Projects/helloName/iOS/bin/iPhoneSimulator/Debug/helloName.iOS.pdb
+/Users/daniel/Projects/helloName/iOS/bin/iPhoneSimulator/Debug/helloName.dll
+/Users/daniel/Projects/helloName/iOS/bin/iPhoneSimulator/Debug/helloName.pdb
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/helloName.iOS.csprojResolveAssemblyReference.cache
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/helloName.iOS.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/helloName.iOS.exe
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/helloName.iOS.pdb
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/ibtool/_BundleResourceWithLogicalName.items
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_PartialAppManifest.items
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/actool/_BundleResourceWithLogicalName.items
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_PartialAppManifest.items
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/coremlc/_BundleResourceWithLogicalName.items
+/Users/daniel/Projects/helloName/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone10.3-11.3/optimized/
